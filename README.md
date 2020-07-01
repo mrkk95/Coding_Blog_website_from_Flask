@@ -1,6 +1,5 @@
 # Coding_Blog_website_from_Flask
-<hr>
-<b>#About</b>
+#About
 <hr>
 <p>I have created Coding blog website using flask framework. In this website one can add,delete or change the blog post. I have used flask,python,bootstrap to complete this website. Every blog are set directly on evry pages based on total blog post in site. If you want to use this code simply follow this steps.</p>
 <b>#Before you start</b>
@@ -14,7 +13,7 @@
   <b>3.Contact</b>
   <p>In this site if anyone try to contact you then that message will save in database as well as come in my email. If you want to add this feature then you have to enable "allow less secure apps" in email settings.</p><br>
   
-<b>#Steps to run</b>
+#Steps to run
 <hr>
 <ol>
   <li>Clone the repository on your device.</li>
