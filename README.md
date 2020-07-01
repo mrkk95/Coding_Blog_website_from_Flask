@@ -2,7 +2,6 @@
 <b>About</b>
 <p>I have created Coding blog website using flask framework. In this website one can add,delete or change the blog post. I have used flask,python,bootstrap to complete this website. Every blog are set directly on evry pages based on total blog post in site. If you want to use this code simply follow this steps.</p>
 <b>Before you start</b>
-  <hr>
   <b>1. SQLAlchemy</b><br>
     <p>This part of the project is very simple.The login routes reference this table. Only very basic pieces of SQLAlchemy are used, so it should all be pretty easy to find and edit for your project.</p><br>
 
@@ -13,7 +12,6 @@
   <p>In this site if anyone try to contact you then that message will save in database as well as come in my email. If you want to add this feature then you have to enable "allow less secure apps" in email settings.</p><br>
   
 <b>Steps to run</b>
-<hr>
 <ol>
   <li>Clone the repository on your device.</li>
   <li>pip install flask</li>
@@ -31,4 +29,4 @@
   <li>Open your website from link that you got after running main.py file.</li>
 </ol>
 
-<p>For any query kindly reach to me:<a href="keyurkhunadiya@gmail.com">keyurkhunadiya@gmail.com</a></p>
+<p>For any query kindly reach to me: <a href="keyurkhunadiya@gmail.com">keyurkhunadiya@gmail.com</a></p>
