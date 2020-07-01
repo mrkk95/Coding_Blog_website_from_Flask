@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/Coding Blog",
+        "prod_uri": "mysql://root:@localhost/Coding Blog",
+        "fb_url": "https://www.facebook.com/keyur.khunadiya/",
+        "tw_url": "https://twitter.com/keyur_khunadiya",
+        "gh_url": "https://github.com/mrkk95",
+        "blog_name": "Coding Blog",
+        "tag_line": "Blogs for Programmers",
+        "gmail-user": "",//Add email address here
+        "gmail-password": "",//Add paasword of email here
+        "about_text": "Hi my name is Keyur Khunadiya and I want to become Python Developer. I am studing Bachelor of Engineering in Information Technology from G H PATEL COLLEGE OF ENGINEERING & TECHNOLOGY.I am currently searching internship in Python development.I have created this website using flask framework.Hope that you will like this programming blog website.You can add your blogs and edit/delete after adding the blog whenever you required.If you have any query then contact me.I will surely reply to you.",
+        "no_of_posts": 3,
+        "admin_user": "",//set username of website
+        "admin_password": "",//set password of website
+        "upload_location":"C:\\Users\\Lapcare\\PycharmProjects\\flask-tut\\static\\img"
+    }
+}

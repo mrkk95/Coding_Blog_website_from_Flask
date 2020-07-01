@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\static",
+    "\\templates",
+    "\\venv",
+    "\\venv\\Lib",
+    "\\venv\\Lib\\site-packages",
+    "\\venv\\Lib\\site-packages\\pip-19.0.3-py3.7.egg",
+    "\\venv\\Lib\\site-packages\\pip-19.0.3-py3.7.egg\\pip",
+    "\\venv\\Lib\\site-packages\\pip-19.0.3-py3.7.egg\\pip\\_internal",
+    "\\venv\\Lib\\site-packages\\pip-19.0.3-py3.7.egg\\pip\\_vendor"
+  ],
+  "SelectedNode": "\\Main.py",
+  "PreviewInSolutionExplorer": false
+}

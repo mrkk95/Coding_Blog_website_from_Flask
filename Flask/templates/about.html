@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{ url_for('static',filename='img/linkedin_background.jpg')}}')">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="page-heading">
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <h1 style="color:#000000">About Me</h1>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<!-- Main Content -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+      <p>{{params['about_text']}}</p>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}
