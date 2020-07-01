@@ -1,8 +1,8 @@
 # Coding Blog
 <b>About</b>
 <p>I have created Coding blog website using flask framework. In this website one can add,delete or change the blog post. I have used flask,python,bootstrap to complete this website. If you want to use this code simply follow this steps.</p>
-<b>Before you start</b>
-  <b>1. SQLAlchemy</b><br>
+<b>Before you start</b><br>
+  <b>1. SQLAlchemy</b>
     <p>This part of the project is very simple.The login routes reference this table. Only very basic pieces of SQLAlchemy are used, so it should all be pretty easy to find and edit for your project.</p><br>
 
   <b>2.Flask-Login</b>
